@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio_rake",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niglus/portfolio_rake.git"
+  },
+  "author": "niglus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niglus/portfolio_rake/issues"
+  },
+  "homepage": "https://github.com/niglus/portfolio_rake#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
